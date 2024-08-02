@@ -3,7 +3,7 @@ Algorithm using the cv2 library, os, and python image library to detect and reco
 
 I intended on using this code for a later project I planned using a raspberry pi. However, I did decide to upload it here for anyone who is interested.
 
-*install any necessary packages before running the code, they are stated in the imports at the top of the code*
+*install any necessary packages before running the code, they are stated at imports at the top of the code*
 
 For your own usage first run facialcollection.py to obtain images of the user you want the model to recognize. You may set the amount of photos it takes using the count variable.
 The openCV window that pops up may be closed by pressing the 'q' key.
