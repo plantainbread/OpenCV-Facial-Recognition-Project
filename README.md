@@ -1,7 +1,9 @@
 # OpenCV-Facial-Recognition-Project
+Fun little program I made to be used later for a raspberry pi project, but I also placed the code here for anyone interested :)
+
 Algorithm using the cv2 library, os, and python image library to detect and recognize human faces.
 
-I intended on using this code for a later project I planned using a raspberry pi. However, I did decide to upload it here for anyone who is interested.
+My OpenCV-Python is version 4.8.0.74
 
 *install any necessary packages before running the code, they are stated at imports at the top of the code*
 
